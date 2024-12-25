@@ -5,7 +5,6 @@ This project designed for performing tasks in data analysis, model training, and
 
 ### 1.Libraries and Tools Used
 The following libraries and tools are extensively utilized in this project:
-
 -Data Manipulation: pandas, numpy
 -Data Visualization: matplotlib, seaborn
 -Machine Learning: scikit-learn
@@ -14,7 +13,6 @@ The following libraries and tools are extensively utilized in this project:
 -Miscellaneous: os, random
 
 ### 2.Datasets Utilized
-<br/>
 -Salary Data (Salary_data.csv)
 -Advertising Data (advertising.csv)
 -Mall Customer Segmentation (Mall_Customers.csv)
