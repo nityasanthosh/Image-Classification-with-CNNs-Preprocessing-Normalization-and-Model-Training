@@ -1,5 +1,5 @@
 # Image Classification with CNNs: Preprocessing, Normalization and Model-Training
-This project designed for performing tasks in data analysis, model training, and image classification using Convolutional Neural Networks (CNNs). The project integrates various datasets and employs both machine learning and computer vision techniques.
+This project includes performing tasks in data analysis, model training, and image classification using Convolutional Neural Networks (CNNs). The project integrates various datasets and employs both machine learning and computer vision techniques.
 
 ## Key Highlights
 
