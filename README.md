@@ -25,22 +25,22 @@ The project uses the following datasets for different analyses and tasks. These 
 
 ### 3. Workflow Overview
 
-#### a. Data Preprocessing
-- **Loading Datasets:** Each dataset is loaded and explored using pandas.
-- **Cleaning and Transformation:** Includes handling missing values, encoding categorical data, and scaling numerical features.
-
-#### b. Exploratory Data Analysis (EDA)
-- **Visualization Techniques:** Pairplots, histograms, and scatterplots are used to identify patterns and relationships.
-- **Insights:** Key trends and correlations are highlighted to guide feature selection.
-
-#### c. Model Development
-- **Supervised Learning Models:** Regression and classification models are built using TensorFlow/Keras.
-- **Performance Metrics:** Models are evaluated based on accuracy, precision, recall, and F1 scores.
-
-#### d. Computer Vision and CNNs
-- **Image Preprocessing:** Techniques such as resizing, normalization, and augmentation are applied.
-- **Model Architecture:** A custom CNN model is defined using TensorFlow/Keras.
-- **Evaluation:** Test images are classified, and the results are visualized.
+   #### a. Data Preprocessing
+   - **Loading Datasets:** Each dataset is loaded and explored using pandas.
+   - **Cleaning and Transformation:** Includes handling missing values, encoding categorical data, and scaling numerical features.
+   
+   #### b. Exploratory Data Analysis (EDA)
+   - **Visualization Techniques:** Pairplots, histograms, and scatterplots are used to identify patterns and relationships.
+   - **Insights:** Key trends and correlations are highlighted to guide feature selection.
+   
+   #### c. Model Development
+   - **Supervised Learning Models:** Regression and classification models are built using TensorFlow/Keras.
+   - **Performance Metrics:** Models are evaluated based on accuracy, precision, recall, and F1 scores.
+   
+   #### d. Computer Vision and CNNs
+   - **Image Preprocessing:** Techniques such as resizing, normalization, and augmentation are applied.
+   - **Model Architecture:** A custom CNN model is defined using TensorFlow/Keras.
+   - **Evaluation:** Test images are classified, and the results are visualized.
 
 ### 4. Results
 This project demonstrates:
@@ -51,14 +51,17 @@ This project demonstrates:
 
 ### 5. How to get Started
 1. Clone this repository:
+   
    ```bash
    git clone https://github.com/nityasanthosh/Image-Classification-with-CNNs-Preprocessing-Normalization-and-Model-Training.git
 
 2. Navigate to the project directory:
+   
    ```bash
    cd Image-Classification-with-CNNs-Preprocessing-Normalization-and-Model-Training
    
 3. Install dependencies:
+   
    ```bash
    pip install numpy pandas matplotlib seaborn tensorflow opencv-python
 
